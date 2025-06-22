@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌟 VitaPath – AI-Powered Safety & Wellness App
+![ChatGPT Image Jun 22, 2025, 11_32_14 PM](https://github.com/user-attachments/assets/ffb299a3-a4f3-4185-a87e-a43e1735ebd0)
 
-## Getting Started
+**VitaPath** is your all-in-one AI companion for **safe navigation** and **personal wellness**. Whether you're heading home late or tracking your wellbeing, VitaPath helps you move through life with **confidence, care, and control**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚨 Safety Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🛣️ **Real-Time Safe Route Finder**  
+  Navigate the safest paths using crowdsourced data and live incident alerts.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🚨 **SOS Button & Audio Panic Mode**  
+  Trigger help silently or through voice when in danger—anytime, anywhere.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🧭 **Emergency Service Detection**  
+  Instantly locate nearby hospitals, police stations, and helplines.
 
-## Learn More
+- 🫂 **Community Check-Ins**  
+  Let your trusted circle know you’re safe with just one tap.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💖 Wellness Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🧬 **DNA-Based Diet Planner** *(mock genetic input)*  
+  Generate personalized nutrition suggestions based on genetic simulations.
 
-## Deploy on Vercel
+- 📅 **Period & Mood Tracker**  
+  Simple, intuitive tracking of your cycle and emotional wellness.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- 🌈 **Clean, Minimal UI**  
+  A smooth and calming interface focused on mental clarity and ease.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 💻 Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, **React.js**, **Next.js**  
+- **Backend**: **Node.js**, **Firebase** (Authentication, Firestore)  
+- **APIs**: Maps API, Location Services  
+- **AI/ML**: (Planned) GPT-powered wellness suggestions  
+- **Other Tools**: Git, VS Code, Figma (for UI design)
+
+---
+
+## 🚀 Project Status
+
+- ✅ MVP Complete  
+- 🔄 Iterating on UI/UX improvements  
+- 📱 Mobile-first optimized  
