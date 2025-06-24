@@ -46,3 +46,4 @@
 - ✅ MVP Complete  
 - 🔄 Iterating on UI/UX improvements  
 - 📱 Mobile-first optimized  
+- 💻 Deployed on vercel
