@@ -23,9 +23,6 @@
 
 ## 💖 Wellness Features
 
-- 🧬 **DNA-Based Diet Planner** *(mock genetic input)*  
-  Generate personalized nutrition suggestions based on genetic simulations.
-
 - 📅 **Period & Mood Tracker**  
   Simple, intuitive tracking of your cycle and emotional wellness.
 
